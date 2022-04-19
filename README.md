@@ -1,8 +1,8 @@
-### Hi there 👋, Angelo Bennett
+### Hello and welcome! 👋
 #### Design and Development
 ![Design and Development](https://i.ibb.co/N24KbxZ/Github-banner.png)
 
-My name is Angelo and I am a natural US citizen located in Maryland, USA. I design and implement full-stack development. I specialize in MERN stack development. (MongoDB, Express, React, Node) I enjoy learning languages and frameworks like React and React Native. I also enjoy wireframing, UI, UX, and design in general.
+My name is Angelo and I'm a US citizen located in Maryland. I design and implement full-stack development. I specialize in MERN stack development. (MongoDB, Express, React, Node) I enjoy learning languages and frameworks like React and React Native. I also enjoy wireframing, UI, UX, and design in general.
 
 Skills: REACT / JS / HTML / CSS
 
