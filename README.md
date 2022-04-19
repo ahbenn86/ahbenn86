@@ -10,7 +10,7 @@ My name is Angelo and I'm a US citizen located in Maryland, USA. I design and im
 <li> 🎨Figma
 
 ## Examples of work
-<img src="https://github.com/ahbenn86/ahbenn86/blob/main/smile.gif" width="256"/>
+<img src="https://github.com/ahbenn86/ahbenn86/blob/main/smile.gif" width="256"/>   <img src="https://github.com/ahbenn86/ahbenn86/blob/main/capture-brazil.gif" width="256"/>
   
 ## Updates
 - 🔭 I’m currently working on React projects 
