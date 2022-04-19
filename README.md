@@ -11,7 +11,11 @@ Skills: REACT / JS / HTML / CSS
 - 📫 How to reach me: angelobennett86@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahbenn86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abennett2/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahbenn86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abennett2/) 
+
+</br>
+
+[![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahbenn86)](https://github.com/ahbenn86/github-readme-stats)
 
 
 
