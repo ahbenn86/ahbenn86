@@ -4,10 +4,10 @@
 My name is Angelo and I'm a US citizen located in Maryland, USA. I design and implement full-stack development. I specialize in MERN stack development (MongoDB, Express, React, Node). I enjoy learning languages and frameworks like React and React Native. I also enjoy wireframing, UI, UX, and design in general.
 
 ## Skills and Experience
-⚛ React
-💻 HTML, CSS, JavaScript
-☁ AWS
-🎨 Figma
+⚛ <li>React
+💻<li> HTML, CSS, JavaScript
+☁ <li>AWS
+🎨 <li>Figma
 
 
 - 🔭 I’m currently working on React projects 
