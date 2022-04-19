@@ -4,17 +4,16 @@
 My name is Angelo and I'm a US citizen located in Maryland, USA. I design and implement full-stack development. I specialize in MERN stack development (MongoDB, Express, React, Node). I enjoy learning languages and frameworks like React and React Native. I also enjoy wireframing, UI, UX, and design in general.
 
 ## Skills and Experience
-</br>
-⚛ <li>React
-💻<li> HTML, CSS, JavaScript
-☁ <li>AWS
-🎨 <li>Figma
-
-
+<li> ⚛React
+<li> 💻HTML, CSS, JavaScript
+<li> ☁AWS
+<li> 🎨Figma
+  
+## Updates
 - 🔭 I’m currently working on React projects 
 - 🌱 I’m currently learning UI & UX Design 
 - 📫 How to reach me: angelobennett86@gmail.com 
-
+</br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahbenn86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abennett2/) 
 
