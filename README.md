@@ -13,9 +13,9 @@ My name is Angelo and I'm a US citizen located in Maryland, USA. I design and im
 <img src="https://github.com/ahbenn86/ahbenn86/blob/main/smile.gif" width="256"/>   <img src="https://github.com/ahbenn86/ahbenn86/blob/main/capture-brazil.gif" width="256"/>   <img src="https://github.com/ahbenn86/ahbenn86/blob/main/vertical-slider.gif" width="256"/>
   
 ## Updates
-- 🔭 I’m currently working on React projects 
-- 🌱 I’m currently learning UI & UX Design 
-- 📫 How to reach me: angelobennett86@gmail.com 
+- ⚛ I’m currently working on React projects 
+- 🖌 I’m currently learning UI & UX Design 
+- ✉ How to reach me: angelobennett86@gmail.com 
 </br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahbenn86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abennett2/) 
