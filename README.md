@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/ahbenn86/ahbenn86/blob/main/Github%20banner%202.png)
 
 # Angelo Bennett
-My name is Angelo and I'm a FUll Stack Developer located in Maryland, USA. I specialize in *MERN* stack development (MongoDB, Express, React, Node). I enjoy learning languages and frameworks like React and React Native. I also enjoy wireframing, UI, UX, and design in general.
+My name is Angelo and I'm a Full Stack Developer located in Maryland, USA. I specialize in *MERN* stack development (MongoDB, Express, React, Node). I enjoy learning languages and frameworks like React and React Native. I also enjoy wireframing, UI, UX, and design in general.
 
 ## Skills and Experience
 <li> ⚛React
