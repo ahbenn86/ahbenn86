@@ -22,7 +22,7 @@ My name is Angelo and I'm a Full Stack Developer located in Baltimore, MD. I spe
 
 </br>
 
-[![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahbenn86)](https://github.com/ahbenn86/github-readme-stats)
+<!--[![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahbenn86)](https://github.com/ahbenn86/github-readme-stats)-->
 
 
 
